@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: yellowgreen;
+}
+#title {
+  font-style: italic;
+}
+span {
+  font-size: 12px;
+}
